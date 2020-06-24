@@ -9,6 +9,7 @@
       "name": "auto_name__1"
     }
   ],
+  "showSteps": false,
   "steps": [
     "page.1_-check"
   ],

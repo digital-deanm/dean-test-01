@@ -7,7 +7,8 @@
   "steps": [
     "page.1_",
     "page.3",
-    "page.4_"
+    "page.confirm_",
+    "page.last2"
   ],
   "url": "/"
 }
